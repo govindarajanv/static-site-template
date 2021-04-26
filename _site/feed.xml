@@ -3,10 +3,10 @@
   <channel>
     <title>Great web agency</title>
     <description>Great web agency offers high impact yet affordable web development services. From web design to targeted SEO to custom web applications.</description>
-    <link>http://dc3a06fb751c.mylabserver.com:3000/</link>
-    <atom:link href="http://dc3a06fb751c.mylabserver.com:3000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 26 Apr 2021 09:11:20 +0000</pubDate>
-    <lastBuildDate>Mon, 26 Apr 2021 09:11:20 +0000</lastBuildDate>
+    <link>http://dc3a06fb751c.mylabserver.com:3000/static-site-template/</link>
+    <atom:link href="http://dc3a06fb751c.mylabserver.com:3000/static-site-template/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 26 Apr 2021 09:15:32 +0000</pubDate>
+    <lastBuildDate>Mon, 26 Apr 2021 09:15:32 +0000</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
     
       <item>
@@ -18,8 +18,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Tue, 20 Apr 2021 12:00:00 +0000</pubDate>
-        <link>http://dc3a06fb751c.mylabserver.com:3000/jekyll/Hello-Blog.html</link>
-        <guid isPermaLink="true">http://dc3a06fb751c.mylabserver.com:3000/jekyll/Hello-Blog.html</guid>
+        <link>http://dc3a06fb751c.mylabserver.com:3000/static-site-template/jekyll/Hello-Blog.html</link>
+        <guid isPermaLink="true">http://dc3a06fb751c.mylabserver.com:3000/static-site-template/jekyll/Hello-Blog.html</guid>
         
         
         <category>jekyll</category>
@@ -44,8 +44,8 @@
 
 </description>
         <pubDate>Fri, 20 May 2016 21:11:27 +0000</pubDate>
-        <link>http://dc3a06fb751c.mylabserver.com:3000/jekyll/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://dc3a06fb751c.mylabserver.com:3000/jekyll/welcome-to-jekyll.html</guid>
+        <link>http://dc3a06fb751c.mylabserver.com:3000/static-site-template/jekyll/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://dc3a06fb751c.mylabserver.com:3000/static-site-template/jekyll/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
@@ -138,8 +138,8 @@
 &lt;p&gt;Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc.&lt;/p&gt;
 </description>
         <pubDate>Fri, 20 May 2016 00:00:00 +0000</pubDate>
-        <link>http://dc3a06fb751c.mylabserver.com:3000/jekyll/this-post-demonstrates-post-content-styles.html</link>
-        <guid isPermaLink="true">http://dc3a06fb751c.mylabserver.com:3000/jekyll/this-post-demonstrates-post-content-styles.html</guid>
+        <link>http://dc3a06fb751c.mylabserver.com:3000/static-site-template/jekyll/this-post-demonstrates-post-content-styles.html</link>
+        <guid isPermaLink="true">http://dc3a06fb751c.mylabserver.com:3000/static-site-template/jekyll/this-post-demonstrates-post-content-styles.html</guid>
         
         
         <category>jekyll</category>
@@ -155,8 +155,8 @@
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.&lt;/p&gt;
 </description>
         <pubDate>Fri, 20 May 2016 00:00:00 +0000</pubDate>
-        <link>http://dc3a06fb751c.mylabserver.com:3000/jekyll/super-long-article.html</link>
-        <guid isPermaLink="true">http://dc3a06fb751c.mylabserver.com:3000/jekyll/super-long-article.html</guid>
+        <link>http://dc3a06fb751c.mylabserver.com:3000/static-site-template/jekyll/super-long-article.html</link>
+        <guid isPermaLink="true">http://dc3a06fb751c.mylabserver.com:3000/static-site-template/jekyll/super-long-article.html</guid>
         
         
         <category>jekyll</category>
@@ -170,8 +170,8 @@
 &lt;p&gt;No laudem altera adolescens has, volumus lucilius eum no. Eam ei nulla audiam efficiantur. Suas affert per no, ei tale nibh sea. Sea ne magna harum, in denique scriptorem sea, cetero alienum tibique ei eos. Labores persequeris referrentur eos ei.&lt;/p&gt;
 </description>
         <pubDate>Fri, 20 May 2016 00:00:00 +0000</pubDate>
-        <link>http://dc3a06fb751c.mylabserver.com:3000/jekyll/my-example-post.html</link>
-        <guid isPermaLink="true">http://dc3a06fb751c.mylabserver.com:3000/jekyll/my-example-post.html</guid>
+        <link>http://dc3a06fb751c.mylabserver.com:3000/static-site-template/jekyll/my-example-post.html</link>
+        <guid isPermaLink="true">http://dc3a06fb751c.mylabserver.com:3000/static-site-template/jekyll/my-example-post.html</guid>
         
         
         <category>jekyll</category>
