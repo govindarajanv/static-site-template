@@ -47,22 +47,22 @@ layout: default
 
 
                 <hr>
-                {% if site.comments %}
-                {% include comments.html %}
-                {% endif %}
                 
                  {% if page.previous %}
                   <span class="previous-link">
-                    <a rel="prev" href="{{ page.previous.url }}">Previous article</a>
+                    <a rel="prev" href="{{ site.baseurl }}/{{ page.previous.url }}">Previous article</a>
                   </span>
                  {% endif %}
                  
                  {% if page.next %}
                   <span class="next-link pull-right">
-                    <a rel="next" href="{{ page.next.url }}">Next article</a>
+                    <a rel="next" href="{{ site.baseurl }}/{{ page.next.url }}">Next article</a>
                   </span>
                  {% endif %}
                
+                {% if site.comments %}
+                {% include comments.html %}
+                {% endif %}
                 <hr>
             </div>
 
@@ -78,7 +78,7 @@ layout: default
                         <div class="col-lg-12">
                             <ul class="list-unstyled">
                                {% for post in site.categories[category_name] limit:5 %}
-                                <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+                                <li><a href="{{ site.baseurl }}/{{ post.url }}">{{ post.title }}</a></li>
                                 {% endfor %}
                             </ul>
                         </div>
