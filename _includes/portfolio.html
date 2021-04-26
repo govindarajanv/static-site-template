@@ -17,7 +17,7 @@
                       {% for project in site.data.projects %}
                         <li class="mix {{ project.category }}">
                           <a href="#">
-                            <img src="{{ project.img }}" alt="{{ project.title }}">
+                            <img src="{{ site.baseurl}}/{{ project.img }}" alt="{{ project.title }}">
                             <div class="overly">
                               <div class="position-center">
                                 <h2>{{ project.title }}</h2>

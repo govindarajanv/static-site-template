@@ -1,73 +1,73 @@
 [
 {
   "category": "Branding",
-  "img": "{{ site.baseurl }}/img/portfolio/work1.jpg",
+  "img": "img/portfolio/work1.jpg",
   "title": "Tesla Motors",
   "content": "Labore et dolore magna aliqua. Ut enim ad"
 },
 {
   "category": "Graphic",
-  "img": "{{ site.baseurl }}/img/portfolio/work2.jpg",
+  "img": "img/portfolio/work2.jpg",
   "title": "Tesla Motors",
   "content": "Labore et dolore magna aliqua. Ut enim ad"
 },
 {
   "category": "Video",
-  "img": "{{ site.baseurl }}/img/portfolio/work3.jpg",
+  "img": "img/portfolio/work3.jpg",
   "title": "Tesla Motors",
   "content": "Labore et dolore magna aliqua. Ut enim ad"
 },
 {
   "category": "Branding",
-  "img": "{{ site.baseurl }}/img/portfolio/work4.jpg",
+  "img": "img/portfolio/work4.jpg",
   "title": "Tesla Motors",
   "content": "Labore et dolore magna aliqua. Ut enim ad"
 },
 {
   "category": "Websites",
-  "img": "{{ site.baseurl }}/img/portfolio/work5.jpg",
+  "img": "img/portfolio/work5.jpg",
   "title": "Tesla Motors",
   "content": "Labore et dolore magna aliqua. Ut enim ad"
 },
 {
   "category": "Websites",
-  "img": "{{ site.baseurl }}/img/portfolio/work6.jpg",
+  "img": "img/portfolio/work6.jpg",
   "title": "Tesla Motors",
   "content": "Labore et dolore magna aliqua. Ut enim ad"
 },
 {
   "category": "Websites",
-  "img": "{{ site.baseurl }}/img/portfolio/work1.jpg",
+  "img": "img/portfolio/work1.jpg",
   "title": "Tesla Motors",
   "content": "Labore et dolore magna aliqua. Ut enim ad"
 },
 {
   "category": "Branding",
-  "img": "{{ site.baseurl }}/img/portfolio/work4.jpg",
+  "img": "img/portfolio/work4.jpg",
   "title": "Tesla Motors",
   "content": "Labore et dolore magna aliqua. Ut enim ad"
 },
 {
   "category": "Design",
-  "img": "{{ site.baseurl }}/img/portfolio/work3.jpg",
+  "img": "img/portfolio/work3.jpg",
   "title": "Tesla Motors",
   "content": "Labore et dolore magna aliqua. Ut enim ad"
 },
 {
   "category": "Graphic",
-  "img": "{{ site.baseurl }}/img/portfolio/work2.jpg",
+  "img": "img/portfolio/work2.jpg",
   "title": "Tesla Motors",
   "content": "Labore et dolore magna aliqua. Ut enim ad"
 },
 {
   "category": "Design",
-  "img": "{{ site.baseurl }}/img/portfolio/work5.jpg",
+  "img": "img/portfolio/work5.jpg",
   "title": "Tesla Motors",
   "content": "Labore et dolore magna aliqua. Ut enim ad"
 },
 {
   "category": "Video",
-  "img": "{{ site.baseurl }}/img/portfolio/work1.jpg",
+  "img": "img/portfolio/work1.jpg",
   "title": "Tesla Motors",
   "content": "Labore et dolore magna aliqua. Ut enim ad"
 }      
